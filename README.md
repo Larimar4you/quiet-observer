@@ -3,6 +3,7 @@
 I observe systems, not surfaces.
 
 I’m interested in:
+
 — AI as a living process  
 — fullstack as a language  
 — quiet interfaces between human and machine
