@@ -1,4 +1,4 @@
-![intro](./intro.gif)
+![intro](intro.gif)
 
 I observe systems, not surfaces.
 
