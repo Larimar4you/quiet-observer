@@ -1,3 +1,6 @@
+# quiet-observer
+Minimal noise. Maximum signal.
+
 ![intro](intro.gif)
 
 I observe systems, not surfaces.
